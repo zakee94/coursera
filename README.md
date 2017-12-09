@@ -4,7 +4,7 @@ This is a collection of solutions to the assingments of the various classes that
 Course details and other info. can be found on the individual readmes present in the course directories.
 
 ## Contents
-1. [Algorithms]()
+1. [Algorithms](https://github.com/zakee94/coursera/tree/master/algorithms)
 
 ## Authors
 * [zakee94](https://github.com/zakee94/)
